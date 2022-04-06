@@ -1,6 +1,6 @@
 # Contains SQL-Server scripts
 
-|   database      |  description          |   |
+|   database      |  description          | 
 |:------------- |:-------------|
 | north.sql      | highly modified version of Microsoft NorthWind database |
 | school.sql      | simple database for class |
